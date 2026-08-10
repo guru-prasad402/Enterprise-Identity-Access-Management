@@ -9,5 +9,5 @@ Completed the Repository layer implementation and created the DTO package. Imple
 Implemented Authentication and Password Recovery Features. Completed JWT Authentication using Spring Security with token generation and validation. Implemented Refresh Token generation, validation, and logout functionality. Added Forgot Password and Reset Password flow with OTP generation, verification, and expiry validation. Added OTP utility class for reusable OTP generation and tested all authentication flows using Postman.
 
 10/08
-Today, I worked on active sessions, logout, login history, and audit logging in the IAM project. I checked the session and login history details in PostgreSQL and tested the APIs using Postman. I also worked on Swagger and tested the APIs to make sure they are working properly.
+I worked on active sessions, logout, login history, and audit logging in the IAM project. I checked the session and login history details in PostgreSQL and tested the APIs using Postman. I also worked on Swagger and tested the APIs to make sure they are working properly.
 

@@ -11,3 +11,7 @@ Implemented Authentication and Password Recovery Features. Completed JWT Authent
 10/08
 I worked on active sessions, logout, login history, and audit logging in the IAM project. I checked the session and login history details in PostgreSQL and tested the APIs using Postman. I also worked on Swagger and tested the APIs to make sure they are working properly.
 
+11/08
+I learned the basics of Microservices, including the difference between Monolithic and Microservices architecture. I understood how services communicate with each other using HTTP and what happens when one service is unavailable also completed the practical work for User Service and Order Service. I tested the APIs successfully and checked the communication between both services. I also tested what happens when the User Service is down.
+
+

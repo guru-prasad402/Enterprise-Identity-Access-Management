@@ -14,4 +14,6 @@ I worked on active sessions, logout, login history, and audit logging in the IAM
 11/08
 I learned the basics of Microservices, including the difference between Monolithic and Microservices architecture. I understood how services communicate with each other using HTTP and what happens when one service is unavailable also completed the practical work for User Service and Order Service. I tested the APIs successfully and checked the communication between both services.
 
+12/08
+Completed Day 2 of my Microservices learning. Today I improved my Day 1 services by working on DTOs, API responses, error handling, and configuration. I also tested service failure scenarios and verified that both services continue to communicate properly.
 

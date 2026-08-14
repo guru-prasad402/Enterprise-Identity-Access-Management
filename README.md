@@ -17,3 +17,8 @@ I learned the basics of Microservices, including the difference between Monolith
 12/08
 Completed Day 2 of my Microservices learning. Today I improved my Day 1 services by working on DTOs, API responses, error handling, and configuration. I also tested service failure scenarios and verified that both services continue to communicate properly.
 
+13/08
+I learned how the User Service and Order Service communicate with each other and understood the flow of data between them. I also learned that each service owns and manages its own data, so the User Service manages user information, and the Order Service manages order information. This helped me understand the basic architecture and responsibilities of different microservices.
+
+14/08
+Today, I focused on how services handle failures and recover smoothly. I practiced timeout, retry, circuit breaker, and fallback concepts and understood how they help keep an application stable when another service is slow or unavailable.
